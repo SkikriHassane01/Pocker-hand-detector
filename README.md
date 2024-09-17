@@ -1,1 +1,3 @@
-# Pocker-hand-detector
+# Pocker hand detector
+
+![alt text](result.gif)
